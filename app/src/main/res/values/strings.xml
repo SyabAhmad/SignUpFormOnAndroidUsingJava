@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="todo">TODO</string>
+    <string name="de_developer">De DEVeloper</string>
+</resources>
